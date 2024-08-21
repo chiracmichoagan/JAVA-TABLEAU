@@ -79,7 +79,7 @@ for (int i = 0 ; i < tabEntier.length; i++){
         // Fermer le scanner
         scanner.close();
 
-        // EXERCICE 
+        // EXERCICE 4
 
          // Créer un tableau d'entiers avec des doublons
         int[] tableauAvecDoublons = {1, 2, 2, 3, 4, 4, 5};
@@ -95,6 +95,9 @@ for (int i = 0 ; i < tabEntier.length; i++){
 
         // Afficher le tableau sans doublons
         System.out.println(Arrays.toString(tableauSansDoublons));
+        
+        int[] doublons = {2,2,5,5,8,6,2,3,8};
+        
     }
 
 
