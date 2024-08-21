@@ -79,6 +79,8 @@ for (int i = 0 ; i < tabEntier.length; i++){
         // Fermer le scanner
         scanner.close();
 
+        // EXERCICE 
+
          // Créer un tableau d'entiers avec des doublons
         int[] tableauAvecDoublons = {1, 2, 2, 3, 4, 4, 5};
 
